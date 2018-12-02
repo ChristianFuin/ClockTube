@@ -1,0 +1,17 @@
+{
+	"cold": {
+		"url": "https://www.youtube.com/watch?v=gE89rVfz41s"
+	},
+	"heavy_cold": {
+		"url": "https://www.youtube.com/watch?v=M-b3iU-INDo"
+	},
+	"sunny": {
+		"url": "https://www.youtube.com/watch?v=H0m3Lfkzcw4"
+	},
+	"rainy": {
+		"url": "https://www.youtube.com/watch?v=RBumgq5yVrA"
+	},
+	"mild":{
+		"url": "https://www.youtube.com/watch?v=U9BwWKXjVaI"
+	}
+}
