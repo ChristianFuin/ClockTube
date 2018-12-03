@@ -143,7 +143,7 @@ end
 
 ###----------- main application -----------------
 
-weather = APIWeather.new.build_weather("moscow")
+weather = APIWeather.new.build_weather("london,uk")
 weather.display
 
 alarm = set_alarm
